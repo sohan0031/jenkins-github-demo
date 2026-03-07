@@ -1,2 +1,4 @@
 Hello from GitHub Repository
 Jenkins CI pipeline triggered
+
+Updated for automatic trigger
