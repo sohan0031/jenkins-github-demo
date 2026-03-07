@@ -1,2 +1,2 @@
 Hello from GitHub Repository
-Jenkins will pull this file.
+Jenkins CI pipeline triggered
